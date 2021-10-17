@@ -1,0 +1,2 @@
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\17\lab17\Debug\lab17.vcxproj.AssemblyReference.cache
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\17\lab17\Debug\lab17.exe
