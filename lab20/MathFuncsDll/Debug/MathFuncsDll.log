@@ -1,0 +1,7 @@
+﻿  MathFuncsDll.cpp
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\20\MathFuncsDll\MathFuncsDll.cpp(1,1): warning C4335: Обнаружен файл в формате Mac: преобразуйте исходный файл в формат DOS или UNIX
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\20\MathFuncsDll\MathFuncsDll.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  MyMathFuncs.cpp
+  Создание кода...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\20\MathFuncsDll\Debug\MathFuncsDll.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
