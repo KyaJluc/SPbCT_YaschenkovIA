@@ -1,0 +1,1 @@
+﻿#include "MyMathFuncs.h"#include "MyMathFuncs.cpp"#include <stdexcept>using namespace std;namespace MathFuncs{	double MyMathFuncs::Square(double a, double b)	{		return a*b/2;	}	double MyMathFuncs::Perimetr(double a, double b)	{		return sqrt((a / 2)*(a / 2) + (b / 2)* (b / 2)) * 4;	}}
