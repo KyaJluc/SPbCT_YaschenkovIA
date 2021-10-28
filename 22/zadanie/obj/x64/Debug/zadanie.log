@@ -1,0 +1,15 @@
+﻿  Проверка исходных файлов
+  Удаленное копирование исходных файлов в "192.168.31.174"
+  Проверка архитектуры
+  Проверка архитектуры
+  Запуск удаленной сборки.
+  Компиляция исходных файлов:
+  main.cpp
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\22\zadanie\main.cpp(35,22): warning : passing NULL to non-pointer argument 3 of ‘__pid_t waitpid(__pid_t, int*, int)’ [-Wconversion-null]
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\22\zadanie\main.cpp(35,22): warning :    35 |   waitpid(pid, NULL, NULL);
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\22\zadanie\main.cpp(35,22): warning :       |                      ^~~~
+/usr/include/x86_64-linux-gnu/sys/wait.h(100,61): message : declared here
+/usr/include/x86_64-linux-gnu/sys/wait.h(100,61): message :   100 | extern __pid_t waitpid (__pid_t __pid, int *__stat_loc, int __options);
+/usr/include/x86_64-linux-gnu/sys/wait.h(100,61): message :       |                                                         ~~~~^~~~~~~~~
+  Связывание объектов
+  zadanie.vcxproj -> C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\22\zadanie\bin\x64\Debug\zadanie.out

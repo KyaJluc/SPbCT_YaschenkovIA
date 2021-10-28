@@ -1,0 +1,1 @@
+g++ -o "/home/ivan/projects/lab22/bin/x64/Debug/lab22.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/ivan/projects/lab22/obj/x64/Debug/main.o
