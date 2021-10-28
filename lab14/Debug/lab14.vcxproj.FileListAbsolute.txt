@@ -1,0 +1,4 @@
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\14\lab14\Debug\lab14.vcxproj.AssemblyReference.cache
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\14\lab14\Debug\lab14.MyForm1.resources
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\14\lab14\Debug\lab14.vcxproj.GenerateResource.cache
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\14\lab14\Debug\lab14.exe
