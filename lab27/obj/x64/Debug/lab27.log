@@ -1,0 +1,10 @@
+﻿  Проверка исходных файлов
+  Удаленное копирование исходных файлов в "192.168.31.174"
+  Проверка архитектуры
+  Проверка архитектуры
+  Запуск удаленной сборки.
+  Компиляция исходных файлов:
+  Связывание объектов
+/usr/bin/ld : error : /home/ivan/projects/lab27/obj/x64/Debug/smess.o: в функции «main»:
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\27\lab27\smess.cpp(11): error : повторное определение «main»; /home/ivan/projects/lab27/obj/x64/Debug/cmess.o:/home/ivan/projects/lab27/cmess.cpp:12: здесь первое определение
+collect2 : error : ld returned 1 exit status
