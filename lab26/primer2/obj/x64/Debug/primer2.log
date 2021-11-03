@@ -1,0 +1,11 @@
+﻿  Проверка исходных файлов
+  Удаленное копирование исходных файлов в "192.168.31.174"
+  Проверка архитектуры
+  Проверка архитектуры
+  Запуск удаленной сборки.
+  Компиляция исходных файлов:
+  client.cpp
+  Связывание объектов
+/usr/bin/ld : error : /home/ivan/projects/primer2/obj/x64/Debug/server.o: в функции «main»:
+C:\Users\vanya\YandexDisk\учеба\системное программирование\лабы\26\lab26\primer2\server.cpp(12): error : повторное определение «main»; /home/ivan/projects/primer2/obj/x64/Debug/client.o:/home/ivan/projects/primer2/client.cpp:12: здесь первое определение
+collect2 : error : ld returned 1 exit status

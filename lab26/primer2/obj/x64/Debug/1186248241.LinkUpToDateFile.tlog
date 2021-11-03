@@ -1,0 +1,1 @@
+g++ -o "/home/ivan/projects/primer2/bin/x64/Debug/primer2.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/ivan/projects/primer2/obj/x64/Debug/client.o /home/ivan/projects/primer2/obj/x64/Debug/server.o
