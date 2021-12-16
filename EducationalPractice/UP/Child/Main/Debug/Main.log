@@ -1,0 +1,4 @@
+﻿  MainWin.cpp
+C:\Users\vanya\YandexDisk\учеба\системное программирование\УП\UP\Main\MainWin.h(189,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MainWin.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Main.vcxproj -> C:\Users\vanya\YandexDisk\учеба\системное программирование\УП\UP\Debug\Main.exe

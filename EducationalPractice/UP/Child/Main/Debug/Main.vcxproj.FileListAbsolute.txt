@@ -1,0 +1,3 @@
+C:\Users\vanya\YandexDisk\учеба\системное программирование\УП\UP\Main\Debug\Main.MainWin.resources
+C:\Users\vanya\YandexDisk\учеба\системное программирование\УП\UP\Main\Debug\Main.vcxproj.GenerateResource.cache
+C:\Users\vanya\YandexDisk\учеба\системное программирование\УП\UP\Main\Debug\Main.vcxproj.AssemblyReference.cache
